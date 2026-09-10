@@ -10,11 +10,19 @@
 
 ---
 
+### 🎬 Featured Walkthrough: 1-Prompt Voice-to-Workflow Streaming
+
+[![Glow Voice Builder: 1-Prompt Inbound Revenue Automation](https://img.youtube.com/vi/-gncjz1r4Hs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-gncjz1r4Hs)
+
+> **[▶ Watch 3-minute Live Demo on YouTube](https://www.youtube.com/watch?v=-gncjz1r4Hs)** · *Unscripted recording demonstrating the async agent converting a single voice prompt into full canvas topology, parallel branches, and background testing simulators.*
+
+---
+
 ### 🏛️ Engineering Track Record & Case Studies
 
 | Project | Role & Focus | Key Impact & Architecture | Case Study |
 | :--- | :--- | :--- | :---: |
-| **[Glow](https://getglow.ai)** (2025–Now) | **Founding Product Engineer (#4)** | Conceived the async agent vision, canvas interaction model, voice-to-workflow streaming, multi-tenant MSP governance, and author of 100+ pages of technical documentation at docs.getglow.ai. | [Read Case Study →](https://sebastianhozak.com/work/glow) |
+| **[Glow](https://getglow.ai)** (2025–Now) | **Founding Product Engineer (#4)** | Conceived the async agent vision, canvas interaction model, voice-to-workflow streaming, multi-tenant MSP governance, and authored 100+ pages of technical documentation at docs.getglow.ai. | [Read Case Study →](https://sebastianhozak.com/work/glow) |
 | **[Groupon](https://www.groupon.com)** (2024–2025) | **Cloud Platform & Automation** | Automated self-service cloud provisioning across AWS and Google Cloud Platform, cutting project lead time from days to hours. | [Read Case Study →](https://sebastianhozak.com/work/groupon) |
 | **[TrustSoft](https://www.trustsoft.eu)** (2021–2025) | **DevOps & Cloud Architecture** | Architected the AWS Control Tower landing zone layer for 15+ enterprise estates (Partners Bank, Eurowag, Acrelec), reducing operating costs by up to 40%. Commercialized as *Cloud Foundation*. | [Read Case Study →](https://sebastianhozak.com/work/trustsoft) |
 | **[CDN77](https://www.cdn77.com)** (2018–2020) | **24/7 Operations Co-Lead** | Co-led on-call incident response and real-time network triage during live production outages for a global CDN and dedicated server fleet. | [Read About →](https://sebastianhozak.com/about) |
