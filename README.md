@@ -1,35 +1,43 @@
-# Sebastian Hozak
+<div align="center">
+  <h1>Sebastian Hozak</h1>
+  <p><strong>Founding Product Engineer at <a href="https://getglow.ai">Glow</a> (#4)</strong> · Prague, Czech Republic</p>
+  <p><em>Bridging product direction, real-time multiplayer canvas architecture (CRDTs), and cloud foundations.</em></p>
 
-> **Founding Product Engineer at [Glow](https://getglow.ai) (#4)** · Prague, Czech Republic  
-> Bridging product vision, real-time multiplayer architecture (CRDTs), and hands-on systems engineering.
-
-[![Website](https://img.shields.io/badge/Website-sebastianhozak.com-ad4f08?style=flat-square)](https://sebastianhozak.com)
-[![Documentation](https://img.shields.io/badge/Docs-docs.getglow.ai-ad4f08?style=flat-square)](https://docs.getglow.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hozaksebastian-0077b5?style=flat-square)](https://linkedin.com/in/hozaksebastian)
-[![Resume](https://img.shields.io/badge/Resume-1--page%20PDF-333333?style=flat-square)](https://sebastianhozak.com/cv.pdf)
-
----
-
-### What I Build & Shape
-
-- **[Glow](https://getglow.ai) (2025–Present):** Conceived the canvas interaction model and real-time multiplayer engine (built on CRDTs). Streaming visual workflow topologies from voice/natural language prompts, isolated multi-tenant MSP governance, and authoring 100+ pages of technical documentation at [docs.getglow.ai](https://docs.getglow.ai).
-- **[Groupon](https://www.groupon.com) (2024–2025, via TrustSoft):** Automated self-service cloud provisioning across AWS and Google Cloud Platform, cutting project provisioning lead time from days to hours.
-- **[TrustSoft](https://www.trustsoft.eu) (2021–2025):** Architected the AWS Control Tower landing zone governance layer across 15+ enterprise estates (Partners Bank, Eurowag, Acrelec, Prima). Reduced client operating costs by up to 40%; solution became TrustSoft's flagship product *Cloud Foundation*.
+  <p>
+    <a href="https://sebastianhozak.com"><img src="https://img.shields.io/badge/Website-sebastianhozak.com-ad4f08?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://docs.getglow.ai"><img src="https://img.shields.io/badge/Docs-docs.getglow.ai-ad4f08?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation" /></a>
+    <a href="https://linkedin.com/in/hozaksebastian"><img src="https://img.shields.io/badge/LinkedIn-hozaksebastian-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://sebastianhozak.com/cv.pdf"><img src="https://img.shields.io/badge/Resume-1--Page%20PDF-333333?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  </p>
+</div>
 
 ---
 
-### Technical Focus & Stack
+### ⚡ What I Build & Shape
+
+- **[Glow](https://getglow.ai) (2025–Present) · Founding Product Engineer (#4)**  
+  Conceived the canvas interaction model and real-time multiplayer engine built on Conflict-free Replicated Data Types (CRDTs). Architected voice-to-workflow topology streaming, multi-tenant MSP governance with revocable access grants, and authored all 100+ pages of product & technical documentation at [docs.getglow.ai](https://docs.getglow.ai).
+- **[Groupon](https://www.groupon.com) (2024–2025, via TrustSoft) · Cloud Platform & Automation**  
+  Engineered self-service cloud provisioning across AWS and Google Cloud Platform, cutting new project lead time from days of manual tickets to automated provisioning in hours.
+- **[TrustSoft](https://www.trustsoft.eu) (2021–2025) · DevOps & Cloud Architecture**  
+  Architected the AWS Control Tower landing zone layer for 15+ enterprise estates (Partners Bank, Eurowag, Acrelec, Prima). Standardized security guardrails (SCPs), automated compliance audits, and reduced client infrastructure operating costs by up to 40%. Architecture commercialized as TrustSoft's flagship product *Cloud Foundation*.
+- **[CDN77](https://www.cdn77.com) & DataPacket (2018–2020) · 24/7 Operations Co-Lead**  
+  Two years of on-call incident response and real-time network triage during live production outages for a global CDN and dedicated-server fleet.
+
+---
+
+### 🛠️ Core Engineering Stack
 
 ```
 Product & Frontend   │ React 19, Next.js, TypeScript, CRDTs (Collaborative State), Tailwind CSS
-Backend & AI Runtime │ Python, Node.js, REST/GraphQL APIs, MCP Protocols, PostgreSQL, Supabase
-Cloud & Platform     │ AWS Control Tower, GCP, Terraform, Terragrunt, Docker, Linux
-Reliability & SRE    │ Incident Triage, Sentry, CloudWatch, Datadog, PagerDuty (24/7 On-Call Veteran)
+Backend & AI Runtime │ Python, Node.js, Asynchronous Agents, REST/GraphQL APIs, PostgreSQL, Supabase
+Cloud & Platform     │ AWS Control Tower, GCP, Terraform, Terragrunt, Docker, Kubernetes, Linux
+Reliability & SRE    │ Sentry, CloudWatch, Datadog, PagerDuty, Incident Response, Postmortems
 ```
 
 ---
 
-### Certifications Passed
+### 📜 Certifications Passed
 
 - **AWS Certified DevOps Engineer — Professional**
 - **AWS Certified Security — Specialty**
@@ -38,9 +46,6 @@ Reliability & SRE    │ Incident Triage, Sentry, CloudWatch, Datadog, PagerDuty
 
 ---
 
-### Connect & Elsewhere
-
-- **Website & Case Studies:** [sebastianhozak.com](https://sebastianhozak.com)
-- **LinkedIn:** [linkedin.com/in/hozaksebastian](https://linkedin.com/in/hozaksebastian)
-- **Email:** [hozaksebastian@gmail.com](mailto:hozaksebastian@gmail.com)
-- **Executive Resume:** [Download 1-Page PDF](https://sebastianhozak.com/cv.pdf)
+<div align="center">
+  <sub>Detailed case studies, live video walkthroughs, and architecture breakdowns at <a href="https://sebastianhozak.com">sebastianhozak.com</a></sub>
+</div>
