@@ -10,11 +10,14 @@
 
 ---
 
-### 🎬 Featured Walkthrough: 1-Prompt Voice-to-Workflow Streaming
+### 🎬 Live Video Walkthroughs: Voice Builder & Streaming Architecture
 
-[![Glow Voice Builder: 1-Prompt Inbound Revenue Automation](https://img.youtube.com/vi/-gncjz1r4Hs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-gncjz1r4Hs)
+> *Unscripted live recordings of Glow's asynchronous agent and visual canvas streaming against real APIs.*
 
-> **[▶ Watch 3-minute Live Demo on YouTube](https://www.youtube.com/watch?v=-gncjz1r4Hs)** · *Unscripted recording demonstrating the async agent converting a single voice prompt into full canvas topology, parallel branches, and background testing simulators.*
+| [▶ Watch: 1-Prompt Inbound Deal Desk (03:07)](https://www.youtube.com/watch?v=-gncjz1r4Hs) | [▶ Watch: Voice & Live Canvas MCP (01:49)](https://www.youtube.com/watch?v=EysF1SDzfts) |
+| :--- | :--- |
+| [![1-Prompt Inbound Deal Desk](https://img.youtube.com/vi/-gncjz1r4Hs/hqdefault.jpg)](https://www.youtube.com/watch?v=-gncjz1r4Hs) | [![Voice & Live Canvas MCP](https://img.youtube.com/vi/EysF1SDzfts/hqdefault.jpg)](https://www.youtube.com/watch?v=EysF1SDzfts) |
+| **1-Prompt Deal Desk & Streaming Topology**<br>Converting a single voice prompt into full canvas topology with parallel AI lead scoring, budget extraction, and background testing playgrounds. | **Voice Automation & Live Canvas MCP**<br>Demonstration of Glow's async agent streaming steps atomically onto the canvas, step-by-step background validation, and deploying live endpoints. |
 
 ---
 
@@ -22,7 +25,7 @@
 
 | Project | Role & Focus | Key Impact & Architecture | Case Study |
 | :--- | :--- | :--- | :---: |
-| **[Glow](https://getglow.ai)** (2025–Now) | **Founding Product Engineer (#4)** | Conceived the async agent vision, canvas interaction model, voice-to-workflow streaming, multi-tenant MSP governance, and authored 100+ pages of technical documentation at docs.getglow.ai. | [Read Case Study →](https://sebastianhozak.com/work/glow) |
+| **[Glow](https://getglow.ai)** (2025–Now) | **Founding Product Engineer (#4)** | Conceived the async agent vision, canvas interaction model, voice-to-workflow streaming, multi-tenant MSP governance, and author of 100+ pages of technical documentation at docs.getglow.ai. | [Read Case Study →](https://sebastianhozak.com/work/glow) |
 | **[Groupon](https://www.groupon.com)** (2024–2025) | **Cloud Platform & Automation** | Automated self-service cloud provisioning across AWS and Google Cloud Platform, cutting project lead time from days to hours. | [Read Case Study →](https://sebastianhozak.com/work/groupon) |
 | **[TrustSoft](https://www.trustsoft.eu)** (2021–2025) | **DevOps & Cloud Architecture** | Architected the AWS Control Tower landing zone layer for 15+ enterprise estates (Partners Bank, Eurowag, Acrelec), reducing operating costs by up to 40%. Commercialized as *Cloud Foundation*. | [Read Case Study →](https://sebastianhozak.com/work/trustsoft) |
 | **[CDN77](https://www.cdn77.com)** (2018–2020) | **24/7 Operations Co-Lead** | Co-led on-call incident response and real-time network triage during live production outages for a global CDN and dedicated server fleet. | [Read About →](https://sebastianhozak.com/about) |
