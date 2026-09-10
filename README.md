@@ -67,12 +67,13 @@
 
 ---
 
-### 📜 Verified Certifications
+### 📜 Verified Certifications & Languages
 
 - **AWS Certified DevOps Engineer — Professional**
 - **AWS Certified Security — Specialty**
 - **AWS Certified Solutions Architect — Associate**
 - **HashiCorp Certified Terraform — Associate**
+- **Languages:** Czech (Native) · English (Full Professional) · Spanish (Deeply studying now)
 
 ---
 
