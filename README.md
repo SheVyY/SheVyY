@@ -21,7 +21,7 @@ I work directly with clients on requirements, onboarding and automation proposal
 
 ## Product walkthroughs
 
-Unscripted recordings of automations I build in Glow. These are product demonstrations, not client case studies or a list of platform features I implemented. Voice is an input method in these examples, not the scope of my role.
+Unscripted product demos of automations I build in Glow, from a spoken brief to working workflows with AI steps and app integrations.
 
 <table>
   <tr>
