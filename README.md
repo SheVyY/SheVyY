@@ -17,8 +17,6 @@ I help shape Glow's product direction with the team. I propose and define featur
 
 I work directly with clients on requirements, onboarding and automation proposals, and handle support and sales demos. I write every page of the documentation at docs.getglow.ai and record product walkthroughs.
 
-Thomas implements the core engine with AI agents. I define and test product behavior, but do not implement the engine. Product direction is a team effort.
-
 <a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Read the Glow case study →</a>
 
 ## Product walkthroughs
