@@ -1,82 +1,85 @@
 # Sebastian Hozak
 
-**Founding Product Engineer at [Glow](https://getglow.ai)** (#4) · Prague, Czech Republic  
-*Bridging product direction, asynchronous agent workflow streaming, and enterprise systems engineering.*
+**Founding Product Engineer at [Glow](https://getglow.ai) (#4)** · Prague, Czech Republic
+
+I help shape products and build automations.
 
 <p>
-  <a href="https://sebastianhozak.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-sebastianhozak.com-ad4f08?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs-docs.getglow.ai-ad4f08?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation" /></a>
-  <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-hozaksebastian-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Executive%20Resume-1--Page%20PDF-24292e?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  <a href="https://sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> ·
+  <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer">Documentation I write</a> ·
+  <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV (PDF)</a>
 </p>
 
----
+## My work at Glow
 
-### 🎬 Live Video Walkthroughs: Voice Builder & Streaming Architecture
+I help shape Glow's product direction with the team. I propose and define features, including how they work and how people use them, and test the resulting behavior. I write code where needed outside the core engine and build automations.
 
-> *Unscripted live recordings of Glow's asynchronous agent and visual canvas streaming against real APIs.*
+I work directly with clients on requirements, onboarding and automation proposals, and handle support and sales demos. I write every page of the documentation at docs.getglow.ai and record product walkthroughs.
+
+Thomas implements the core engine with AI agents. I define and test product behavior, but do not implement the engine. Product direction is a team effort.
+
+<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Read the Glow case study →</a>
+
+## Product walkthroughs
+
+Unscripted recordings of automations I build in Glow. These are product demonstrations, not client case studies or a list of platform features I implemented. Voice is an input method in these examples, not the scope of my role.
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=-gncjz1r4Hs" target="_blank" rel="noopener noreferrer">
-        <strong>▶ Watch: 1-Prompt Inbound Deal Desk (03:07)</strong>
+        <strong>1-Prompt Inbound Deal Desk (03:07)</strong><br />
+        <img src="https://img.youtube.com/vi/-gncjz1r4Hs/hqdefault.jpg" alt="Watch the Inbound Deal Desk walkthrough" width="100%" />
       </a>
-      <br /><br />
-      <a href="https://www.youtube.com/watch?v=-gncjz1r4Hs" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/-gncjz1r4Hs/hqdefault.jpg" alt="1-Prompt Inbound Deal Desk" width="100%" />
-      </a>
-      <br />
-      <sub>Converting a single voice prompt into full canvas topology with parallel AI lead scoring, budget extraction, and background testing playgrounds.</sub>
+      <p>Building an inbound deal desk from a voice prompt, with parallel AI lead scoring and budget extraction, Gmail drafts and Slack alerts.</p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=EysF1SDzfts" target="_blank" rel="noopener noreferrer">
-        <strong>▶ Watch: Voice & Live Canvas MCP (01:49)</strong>
+        <strong>Business Automation with Voice &amp; Live Canvas MCP (01:49)</strong><br />
+        <img src="https://img.youtube.com/vi/EysF1SDzfts/hqdefault.jpg" alt="Watch the business automation walkthrough" width="100%" />
       </a>
-      <br /><br />
-      <a href="https://www.youtube.com/watch?v=EysF1SDzfts" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/EysF1SDzfts/hqdefault.jpg" alt="Voice & Live Canvas MCP" width="100%" />
-      </a>
-      <br />
-      <sub>Demonstration of Glow's async agent streaming steps atomically onto the canvas, background step validation, and deploying live endpoints.</sub>
+      <p>Building a workflow with live canvas streaming, background step verification, customer order cleanup, Python scoring and an HTTP report endpoint.</p>
     </td>
   </tr>
 </table>
 
----
+## Earlier work
 
-### 🏛️ Engineering Track Record & Case Studies
+### Groupon, via TrustSoft (2024 to 2025)
 
-| Project | Role & Focus | Key Impact & Architecture | Case Study |
-| :--- | :--- | :--- | :---: |
-| **[Glow](https://getglow.ai)** (2025–Now) | **Founding Product Engineer (#4)** | Conceived the async agent vision, canvas interaction model, voice-to-workflow streaming, multi-tenant MSP governance, and author of 100+ pages of technical documentation at docs.getglow.ai. | <a href="https://sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Read Case Study →</a> |
-| **[Groupon](https://www.groupon.com)** (2024–2025) | **Cloud Platform & Automation** | Automated self-service cloud provisioning across AWS and Google Cloud Platform, cutting project lead time from days to hours. | <a href="https://sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Read Case Study →</a> |
-| **[TrustSoft](https://www.trustsoft.eu)** (2021–2025) | **DevOps & Cloud Architecture** | Architected the AWS Control Tower landing zone layer for 15+ enterprise estates (Partners Bank, Eurowag, Acrelec), reducing operating costs by up to 40%. Commercialized as *Cloud Foundation*. | <a href="https://sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">Read Case Study →</a> |
-| **[CDN77](https://www.cdn77.com)** (2018–2020) | **24/7 Operations Co-Lead** | Co-led on-call incident response and real-time network triage during live production outages for a global CDN and dedicated server fleet. | <a href="https://sebastianhozak.com/about" target="_blank" rel="noopener noreferrer">Read About →</a> |
+I automated self-service cloud project provisioning across AWS and Google Cloud, bringing project creation from days to hours. I also improved internal developer tools and demonstrated the work to the teams using it. This was client work delivered through TrustSoft.
 
----
+<a href="https://www.sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Read the Groupon case study →</a>
 
-### 🛠️ Core Engineering Disciplines
+### TrustSoft (2021 to 2025)
 
-```
-01 Support & SRE      │ Sentry, CloudWatch, Datadog, PagerDuty, 24/7 Incident Triage, Postmortems
-02 Enterprise Cloud   │ AWS Control Tower, GCP, Terraform, Terragrunt, Docker, Kubernetes, Linux
-03 Platform & DX      │ Python, TypeScript, Asynchronous AI Agents, Workflow Pipelines, PostgreSQL
-04 Product & Systems  │ Next.js 16, React 19, Canvas Interaction Design, Figma, Linear, docs.getglow.ai
-```
+I built utilities, integrations, structure and technical documentation on top of AWS Control Tower, Amazon's platform for governing cloud accounts. My layer became part of Cloud Foundation, used across 15+ enterprise estates, including Partners Bank, Eurowag and Acrelec.
 
----
+<a href="https://www.sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">Read the TrustSoft case study →</a>
 
-### 📜 Verified Certifications & Languages
+### CDN77 (2018 to 2020)
 
-- **AWS Certified DevOps Engineer — Professional**
-- **AWS Certified Security — Specialty**
-- **AWS Certified Solutions Architect — Associate**
-- **HashiCorp Certified Terraform — Associate**
-- **Languages:** Czech (Native) · English (Full Professional) · Spanish (Deeply studying now)
+I co-led a 24/7 operations team, handling incident response, customer support and production outages.
 
----
+<a href="https://www.sebastianhozak.com/about" target="_blank" rel="noopener noreferrer">More about my background →</a>
 
-<div align="center">
-  <sub>Detailed case studies, live video walkthroughs, and architecture breakdowns at <a href="https://sebastianhozak.com" target="_blank" rel="noopener noreferrer">sebastianhozak.com</a></sub>
-</div>
+## Tools and experience
+
+- **Product engineering:** feature definition, behavior testing, developer experience, documentation, TypeScript, Python, Next.js and React.
+- **Automation:** Glow, API integrations, workflow design, PostgreSQL and internal tooling.
+- **Cloud:** AWS, Google Cloud, Terraform, Terragrunt, Docker and Kubernetes.
+- **Operations:** incident response, monitoring, on-call and postmortems.
+
+## Certifications and languages
+
+Certifications earned during my enterprise cloud work:
+
+- AWS Certified DevOps Engineer (Professional)
+- AWS Certified Security (Specialty)
+- AWS Certified Solutions Architect (Associate)
+- HashiCorp Certified Terraform (Associate)
+
+Czech (native), English (full professional), Spanish (currently studying).
+
+I welcome conversations about Glow and product engineering opportunities.
