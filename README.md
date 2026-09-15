@@ -2,7 +2,7 @@
 
 **Founding Product Engineer at <a href="https://getglow.ai" target="_blank" rel="noopener noreferrer">Glow</a> (#4)** · Prague, Czech Republic
 
-I help shape products and build automations.
+At Glow, I help shape how teams build automations with AI. I define and test features with the team, build client workflows and write the product documentation.
 
 <p>
   <a href="https://sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> ·
