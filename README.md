@@ -81,12 +81,14 @@ I co-led a 24/7 operations team, handling incident response, customer support an
 
 ## Certifications and languages
 
-Certifications earned during my enterprise cloud work:
+Previously earned during my enterprise cloud work. All four credentials have expired; the links below lead to the original Credly records.
 
-- AWS Certified DevOps Engineer (Professional)
-- AWS Certified Security (Specialty)
-- AWS Certified Solutions Architect (Associate)
-- HashiCorp Certified Terraform (Associate)
+| Certification | Earned | Expired |
+| --- | --- | --- |
+| <a href="https://www.credly.com/badges/d305beb8-493f-4fc4-8958-a8433ce1b81d" target="_blank" rel="noopener noreferrer">AWS Certified DevOps Engineer (Professional)</a> | May 29, 2023 | May 29, 2026 |
+| <a href="https://www.credly.com/badges/3f097acb-d1c0-436d-9095-617955322d4c" target="_blank" rel="noopener noreferrer">AWS Certified Security (Specialty)</a> | Aug 5, 2022 | Aug 5, 2025 |
+| <a href="https://www.credly.com/badges/aa290458-4231-47bf-8e9b-569897878603" target="_blank" rel="noopener noreferrer">AWS Certified Solutions Architect (Associate)</a> | May 13, 2022 | May 13, 2025 |
+| <a href="https://www.credly.com/badges/129f1ea6-29b4-4bda-ae56-cb15f4e211f0" target="_blank" rel="noopener noreferrer">HashiCorp Certified: Terraform Associate (002)</a> | Jan 28, 2023 | Jan 28, 2025 |
 
 Czech (native), English (full professional), Spanish (currently studying).
 
