@@ -1,6 +1,6 @@
 # Sebastian Hozak
 
-**Founding Product Engineer at [Glow](https://getglow.ai) (#4)** · Prague, Czech Republic
+**Founding Product Engineer at <a href="https://getglow.ai" target="_blank" rel="noopener noreferrer">Glow</a> (#4)** · Prague, Czech Republic
 
 I help shape products and build automations.
 
@@ -13,7 +13,11 @@ I help shape products and build automations.
 
 ## My work at Glow
 
+Glow is a visual platform for workflow automation with AI. I joined as its fourth team member in December 2024, when it was called doFlo.
+
 I help shape Glow's product direction with the team. I propose and define features, including how they work and how people use them, and test the resulting behavior. I write code where needed outside the core engine and build automations.
+
+I advocated multiplayer because business processes involve whole teams. My broader vision is a shared visual workspace where teams and AI work on business processes together, including people who do not write code. Security is a priority in how I approach product decisions.
 
 I work directly with clients on requirements, onboarding and automation proposals, and handle support and sales demos. I write every page of the documentation at docs.getglow.ai and record product walkthroughs.
 
@@ -46,17 +50,23 @@ Unscripted product demos of automations I build in Glow, from a spoken brief to 
 
 ### Groupon, via TrustSoft (2024 to 2025)
 
+Groupon is a local-commerce marketplace for services, experiences and deals.
+
 I automated self-service cloud project provisioning across AWS and Google Cloud, bringing project creation from days to hours. I also improved internal developer tools and demonstrated the work to the teams using it. This was client work delivered through TrustSoft.
 
 <a href="https://www.sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Read the Groupon case study →</a>
 
 ### TrustSoft (2021 to 2025)
 
+TrustSoft provides cloud consulting and managed services.
+
 I built utilities, integrations, structure and technical documentation on top of AWS Control Tower, Amazon's platform for governing cloud accounts. My layer became part of Cloud Foundation, used across 15+ enterprise estates, including Partners Bank, Eurowag and Acrelec.
 
 <a href="https://www.sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">Read the TrustSoft case study →</a>
 
 ### CDN77 (2018 to 2020)
+
+CDN77 delivers content over a global network.
 
 I co-led a 24/7 operations team, handling incident response, customer support and production outages.
 
