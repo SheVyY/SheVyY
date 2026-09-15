@@ -81,7 +81,7 @@ I co-led a 24/7 operations team, handling incident response, customer support an
 
 ## Certifications and languages
 
-Previously earned during my enterprise cloud work. All four credentials have expired; the links below lead to the original Credly records.
+Previously earned during my enterprise cloud work. All four credentials have expired; the links below lead to the original Credly records. I'm not renewing them for now; my focus is on product engineering and client work.
 
 | Certification | Earned | Expired |
 | --- | --- | --- |
