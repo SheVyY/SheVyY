@@ -17,9 +17,9 @@ Glow is a visual platform for workflow automation with AI. I joined as its fourt
 
 I help shape Glow's product direction with the team. I propose and define features, including how they work and how people use them, and test the resulting behavior. I write code where needed outside the core engine and build automations.
 
-I advocated multiplayer because business processes involve whole teams. My broader vision is a shared visual workspace where teams and AI work on business processes together, including people who do not write code. Security is a priority in how I approach product decisions.
+I advocated multiplayer because business processes involve whole teams. My broader vision is a shared visual workspace where teams and AI work on business processes together, including people who do not write code.
 
-I work directly with clients on requirements, onboarding and automation proposals, and handle support and sales demos. I write every page of the documentation at docs.getglow.ai and record product walkthroughs.
+I work directly with clients on requirements, onboarding and automation proposals, and handle support and sales demos. I write every page of the documentation at <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer">docs.getglow.ai</a> and record product walkthroughs.
 
 <a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Read the Glow case study →</a>
 
