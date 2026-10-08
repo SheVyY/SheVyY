@@ -10,7 +10,7 @@ I've built enterprise cloud foundations and developer tooling through TrustSoft,
 
 ## Selected work
 
-- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code, client automations and documentation. I advocated a shared live canvas where people can see AI-built workflows take shape.
+- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code outside the core engine, client automations and documentation. I advocated a shared live canvas where people can see AI-built workflows take shape.
 - **<a href="https://www.sebastianhozak.com/work/netflixer" target="_blank" rel="noopener noreferrer">Netflixer.cz</a>:** Designed the selection algorithm and built the TypeScript Apify Actor. It researches 20+ entertainment sites and delivers a daily shortlist to Slack. Editors decide what to publish.
 - **<a href="https://www.sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">TrustSoft</a>:** Built and documented the governance framework above AWS Control Tower for 15+ enterprise estates, including custom Terraform modules. It became the backbone of Cloud Foundation and later evolved into a modular framework still used in client projects.
 - **<a href="https://www.sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Groupon, via TrustSoft</a>:** Automated Google Cloud project provisioning, bringing setup from days to hours, and improved developer tooling within the team's AWS and Google Cloud platform.
