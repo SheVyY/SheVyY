@@ -6,7 +6,7 @@
 
 I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I help shape product behavior with the team, write code, build client automations and write the full documentation.
 
-<a href="https://sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer">Documentation I write</a>
+<a href="https://www.sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer">Documentation I write</a> · <a href="https://docs.getglow.ai/changelog" target="_blank" rel="noopener noreferrer">Glow changelog</a>
 
 ## Selected work
 
@@ -23,7 +23,7 @@ Unscripted demos of automations I build in Glow (<a href="https://www.youtube.co
 - <a href="https://www.youtube.com/watch?v=-gncjz1r4Hs" target="_blank" rel="noopener noreferrer">1-Prompt Inbound Deal Desk</a> (3:07)
 - <a href="https://www.youtube.com/watch?v=EysF1SDzfts" target="_blank" rel="noopener noreferrer">Business Automation with Voice & Live Canvas MCP</a> (1:49)
 
-Built by speaking to the Claude app, connected to <a href="https://docs.getglow.ai/developers/mcp/client-setup" target="_blank" rel="noopener noreferrer">Glow's MCP server</a> on the live canvas and a Gmail MCP server for automated test emails.
+Built by speaking to the Claude app, connected to <a href="https://docs.getglow.ai/developers/mcp/client-setup" target="_blank" rel="noopener noreferrer">Glow's MCP server</a> on the live canvas (with a Gmail MCP server for automated test emails in the sticky-note demo).
 
 ## Tools and experience
 
