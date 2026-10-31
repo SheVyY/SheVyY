@@ -4,13 +4,13 @@
 
 ## I shape what we build and how it works.
 
-I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I help shape product behavior with the team, write code, build client automations and write the full documentation.
+I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I define how features work with the team, originated the vision and much of the design for our MCP and live-canvas agent workflow, build client automations and write the full documentation.
 
 <a href="https://www.sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai" target="_blank" rel="noopener noreferrer">Documentation I write</a> · <a href="https://docs.getglow.ai/changelog" target="_blank" rel="noopener noreferrer">Glow changelog</a>
 
 ## Selected work
 
-- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code, client automations and documentation. I advocated a shared live canvas where people can see AI-built automations take shape.
+- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code, client automations and documentation. I originated the vision and much of the design for Glow MCP so people and AI agents can build, validate and test automations together on a shared live canvas.
 - **<a href="https://www.sebastianhozak.com/work/netflixer" target="_blank" rel="noopener noreferrer">Netflixer.cz</a>:** Designed the selection algorithm and built the TypeScript Apify Actor. It researches 20+ entertainment sites and delivers a daily shortlist to Slack. Editors decide what to publish.
 - **<a href="https://www.sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">TrustSoft</a>:** Built and documented the governance framework above AWS Control Tower for 15+ enterprise estates, including custom Terraform modules. It became the backbone of Cloud Foundation and later evolved into a modular framework still used in client projects.
 - **<a href="https://www.sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Groupon, via TrustSoft</a>:** Automated Google Cloud project provisioning, bringing setup from days to hours, and improved developer tooling within the team's AWS and Google Cloud platform.
