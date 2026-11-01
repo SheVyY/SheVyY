@@ -20,10 +20,11 @@ I've built enterprise cloud foundations and developer tooling through TrustSoft,
 Unscripted demos of automations I build in Glow, published on <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">my YouTube channel</a> and <a href="https://www.youtube.com/@Human_Glow" target="_blank" rel="noopener noreferrer">Glow's YouTube channel (@Human_Glow)</a>:
 
 - <a href="https://www.youtube.com/watch?v=Cbq2BmwfaRA" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: Sticky Note to Self-Testing Automation in Glow</a> (4:48 · my channel)
+- <a href="https://www.youtube.com/watch?v=koPDOQWzv60" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: AI Lead Research Agent to Reusable Template</a> (5:58 · my channel)
 - <a href="https://www.youtube.com/watch?v=-gncjz1r4Hs" target="_blank" rel="noopener noreferrer">1-Prompt Inbound Deal Desk</a> (3:07 · @Human_Glow)
 - <a href="https://www.youtube.com/watch?v=EysF1SDzfts" target="_blank" rel="noopener noreferrer">Business Automation with Voice & Live Canvas MCP</a> (1:49 · @Human_Glow)
 
-Built by speaking to the Claude app, connected to <a href="https://docs.getglow.ai/developers/mcp/client-setup" target="_blank" rel="noopener noreferrer">Glow's MCP server</a> on the live canvas (with a Gmail MCP server for automated test emails in the sticky-note demo).
+Built by speaking to the Claude app, connected to <a href="https://docs.getglow.ai/developers/mcp/client-setup" target="_blank" rel="noopener noreferrer">Glow's MCP server</a> on the live canvas (with a Gmail MCP server for automated test emails in the sticky-note demos).
 
 ## Tools and experience
 
