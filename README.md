@@ -2,22 +2,22 @@
 
 **Founding Product Engineer at <a href="https://getglow.ai" target="_blank" rel="noopener noreferrer">Glow</a> (#4)** · Prague, Czech Republic
 
-## I shape what we build and how it works.
+## I design how people and AI agents build automations together.
 
-I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I define how features work with the team, originated the vision and much of the design for our MCP and live-canvas agent workflow, build client automations and write the full documentation.
+I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I designed our MCP and live-canvas agent workflow with the team, define and test product behavior, build client automations and write all of our documentation.
 
-<a href="https://www.sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai/getting-started/welcome" target="_blank" rel="noopener noreferrer">Documentation I write</a> · <a href="https://docs.getglow.ai/changelog" target="_blank" rel="noopener noreferrer">Glow changelog</a>
+<a href="https://www.sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://www.sebbuild.com" target="_blank" rel="noopener noreferrer">Idea board (sebbuild.com)</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://x.com/sebbuild_" target="_blank" rel="noopener noreferrer">X</a> · <a href="https://www.youtube.com/@sebbuild" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai/getting-started/welcome" target="_blank" rel="noopener noreferrer">Documentation I write</a> · <a href="https://docs.getglow.ai/changelog" target="_blank" rel="noopener noreferrer">Glow changelog</a>
 
 ## Selected work
 
-- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code, client automations and documentation. I originated the vision and much of the design for Glow MCP so multiple people and AI agents can build, validate and test automations together on a shared CRDT live canvas by voice or from any AI tool/IDE.
+- **<a href="https://www.sebastianhozak.com/work/glow" target="_blank" rel="noopener noreferrer">Glow</a>:** Product direction and feature definition with the team, behavior testing, code, client automations and documentation. With the team, I designed Glow MCP and our live-canvas agent workflow so multiple people and AI agents can build, validate and test automations together on a shared CRDT live canvas by voice or from any AI tool/IDE.
 - **<a href="https://www.sebastianhozak.com/work/netflixer" target="_blank" rel="noopener noreferrer">Netflixer.cz</a>:** Designed the selection algorithm and built the TypeScript Apify Actor. It researches 20+ entertainment sites and delivers a daily shortlist to Slack. Editors decide what to publish.
 - **<a href="https://www.sebastianhozak.com/work/trustsoft" target="_blank" rel="noopener noreferrer">TrustSoft</a>:** Built and documented the governance framework above AWS Control Tower for 15+ enterprise estates, including custom Terraform modules. It became the backbone of Cloud Foundation and later evolved into a modular framework still used in client projects.
 - **<a href="https://www.sebastianhozak.com/work/groupon" target="_blank" rel="noopener noreferrer">Groupon, via TrustSoft</a>:** Automated Google Cloud project provisioning, bringing setup from days to hours, and improved developer tooling within the team's AWS and Google Cloud platform.
 
 ## Walkthroughs
 
-Unscripted demos of automations I build in Glow, published on <a href="https://www.youtube.com/channel/UCbKyemHviv0epH7nH2oHpoQ" target="_blank" rel="noopener noreferrer">my YouTube channel</a> and <a href="https://www.youtube.com/@Human_Glow" target="_blank" rel="noopener noreferrer">Glow's YouTube channel (@Human_Glow)</a>:
+Unscripted demos of automations I build in Glow, published on <a href="https://www.youtube.com/@sebbuild" target="_blank" rel="noopener noreferrer">my YouTube channel</a> and <a href="https://www.youtube.com/@Human_Glow" target="_blank" rel="noopener noreferrer">Glow's YouTube channel (@Human_Glow)</a> (vote on or pin the next automation build on <a href="https://www.sebbuild.com" target="_blank" rel="noopener noreferrer">sebbuild.com</a>):
 
 - <a href="https://www.youtube.com/watch?v=Cbq2BmwfaRA" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: Sticky Note to Self-Testing Automation in Glow</a> (4:48 · my channel)
 - <a href="https://www.youtube.com/watch?v=koPDOQWzv60" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: AI Lead Research Agent to Reusable Template</a> (5:58 · my channel)
