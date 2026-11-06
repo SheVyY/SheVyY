@@ -19,6 +19,7 @@ I've built enterprise cloud foundations and developer tooling through TrustSoft,
 
 Unscripted demos of automations I build in Glow, published on <a href="https://www.youtube.com/@sebbuild" target="_blank" rel="noopener noreferrer">my YouTube channel</a> and <a href="https://www.youtube.com/@Human_Glow" target="_blank" rel="noopener noreferrer">Glow's YouTube channel (@Human_Glow)</a> (vote on or pin the next automation build on <a href="https://www.sebbuild.com" target="_blank" rel="noopener noreferrer">sebbuild.com</a>):
 
+- <a href="https://www.youtube.com/watch?v=cGD7-hBLl_w" target="_blank" rel="noopener noreferrer">Call Transcript to Full Sales Triage in Glow (Claude + MCP)</a> (5:33 · my channel)
 - <a href="https://www.youtube.com/watch?v=ZnFbclFUVMU" target="_blank" rel="noopener noreferrer">2 Sticky Notes to 2 Parallel AI Flows &amp; Data Store (Claude + MCP)</a> (7:39 · my channel)
 - <a href="https://www.youtube.com/watch?v=koPDOQWzv60" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: AI Lead Research Agent to Reusable Template</a> (5:58 · my channel)
 - <a href="https://www.youtube.com/watch?v=Cbq2BmwfaRA" target="_blank" rel="noopener noreferrer">Claude Voice + MCP: Sticky Note to Self-Testing Automation in Glow</a> (4:48 · my channel)
