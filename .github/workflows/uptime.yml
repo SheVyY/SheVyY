@@ -53,8 +53,9 @@ jobs:
             expires=$(curl -sS --max-time 20 "https://rdap.verisign.com/com/v1/domain/$domain" \
               | jq -r '.events[] | select(.eventAction == "expiration") | .eventDate')
             days=$(( ($(date -u -d "$expires" +%s) - now) / 86400 ))
-            if [ "$days" -lt 30 ]; then
-              echo "::error::$domain expires in $days days ($expires). Renew it at the registrar."
+            # Both domains auto-renew; 14 days left means the renewal did not go through.
+            if [ "$days" -lt 14 ]; then
+              echo "::error::$domain expires in $days days ($expires). Auto-renewal has not happened; check the registrar."
               failed=1
             else
               echo "ok $domain registration: $days days left"
