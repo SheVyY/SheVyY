@@ -4,7 +4,7 @@
 
 ## I design how people and AI agents build automations together.
 
-I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I designed our MCP and live-canvas agent architecture with the team, define and test product behavior, build client automations and write all of our documentation.
+I've built enterprise cloud foundations and developer tooling through TrustSoft, and independent automation used daily by Netflixer's editors. At Glow, I define and test how the product behaves, build client automations and write all of our documentation. With the team, I designed how AI agents work on our live canvas over MCP.
 
 <a href="https://www.sebastianhozak.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.sebastianhozak.com/essays/the-market-inside-your-company" target="_blank" rel="noopener noreferrer">Essay: The Market Inside Your Company</a> · <a href="https://www.sebastianhozak.com/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://www.sebbuild.com" target="_blank" rel="noopener noreferrer">Idea board (sebbuild.com)</a> · <a href="https://linkedin.com/in/hozaksebastian" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://x.com/sebbuild_" target="_blank" rel="noopener noreferrer">X</a> · <a href="https://www.youtube.com/@sebbuild" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://docs.getglow.ai/getting-started/welcome" target="_blank" rel="noopener noreferrer">Documentation I write</a> · <a href="https://docs.getglow.ai/changelog" target="_blank" rel="noopener noreferrer">Glow changelog</a>
 
