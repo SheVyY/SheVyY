@@ -1,0 +1,75 @@
+name: Uptime
+
+# Watches both sites from this public repo (Actions minutes are free here, unlike the private
+# site repos). A failed run emails the owner. GitHub pauses schedules after 60 days without a
+# commit to this repo; the profile sync keeps it active.
+on:
+  schedule:
+    - cron: "*/30 * * * *" # pages
+    - cron: "0 7 * * *" # domain and certificate expiry, once a day so a warning is not repeated
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pages:
+    if: github.event.schedule != '0 7 * * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Pages answer with the expected content
+        run: |
+          set -u
+          failed=0
+          check() {
+            local url="$1" marker="$2" body status
+            body=$(curl -sS -L --retry 2 --retry-delay 10 --max-time 20 -A "sebbuild-uptime" -w '\n%{http_code}' "$url") || body=$'\n000'
+            status="${body##*$'\n'}"
+            if [ "$status" != "200" ] || ! grep -qF -- "$marker" <<<"$body"; then
+              echo "::error::$url answered $status or is missing \"$marker\""
+              failed=1
+            else
+              echo "ok $url"
+            fi
+          }
+          check https://www.sebastianhozak.com/ "Sebastian Hozak"
+          check https://www.sebastianhozak.com/essays/the-market-inside-your-company "Market Inside Your Company"
+          check https://www.sebbuild.com/ "You vote. I build it by voice"
+          check https://www.sebbuild.com/changelog "sebbuild"
+          exit $failed
+
+  expiry:
+    if: github.event.schedule == '0 7 * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Domains renew and certificates refresh in time
+        run: |
+          set -u
+          failed=0
+          now=$(date -u +%s)
+          for domain in sebastianhozak.com sebbuild.com; do
+            expires=$(curl -sS --max-time 20 "https://rdap.verisign.com/com/v1/domain/$domain" \
+              | jq -r '.events[] | select(.eventAction == "expiration") | .eventDate')
+            days=$(( ($(date -u -d "$expires" +%s) - now) / 86400 ))
+            # Both domains auto-renew; 14 days left means the renewal did not go through.
+            if [ "$days" -lt 14 ]; then
+              echo "::error::$domain expires in $days days ($expires). Auto-renewal has not happened; check the registrar."
+              failed=1
+            else
+              echo "ok $domain registration: $days days left"
+            fi
+
+            ends=$(echo | openssl s_client -connect "www.$domain:443" -servername "www.$domain" 2>/dev/null \
+              | openssl x509 -noout -enddate | cut -d= -f2)
+            cert_days=$(( ($(date -u -d "$ends" +%s) - now) / 86400 ))
+            # Vercel renews about 30 days ahead and switches to the new certificate before expiry.
+            if [ "$cert_days" -lt 10 ]; then
+              echo "::error::www.$domain still serves a certificate that expires in $cert_days days. Check Domains in Vercel."
+              failed=1
+            else
+              echo "ok www.$domain certificate: $cert_days days left"
+            fi
+          done
+          exit $failed
