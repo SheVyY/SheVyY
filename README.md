@@ -19,6 +19,7 @@ I've built enterprise cloud foundations and developer tooling through TrustSoft,
 
 Unscripted demos of automations I build in Glow, published on <a href="https://www.youtube.com/@sebbuild" target="_blank" rel="noopener noreferrer">my YouTube channel</a> and <a href="https://www.youtube.com/@Human_Glow" target="_blank" rel="noopener noreferrer">Glow's YouTube channel (@Human_Glow)</a> (vote on or pin the next automation build on <a href="https://www.sebbuild.com" target="_blank" rel="noopener noreferrer">sebbuild.com</a>):
 
+- <a href="https://www.youtube.com/watch?v=az0pumyac_U" target="_blank" rel="noopener noreferrer">Sketch, Notes &amp; Transcript to a Live AI Automation via Claude MCP</a> (4:27 · my channel)
 - <a href="https://www.youtube.com/watch?v=uFok-YKUQgY" target="_blank" rel="noopener noreferrer">Claude Turns a Raw Call Transcript into a 9-Step Automation</a> (6:56 · my channel)
 - <a href="https://www.youtube.com/watch?v=cGD7-hBLl_w" target="_blank" rel="noopener noreferrer">Google Doc Notes to Live Gmail &amp; Slack Triage via Claude MCP</a> (5:33 · my channel)
 - <a href="https://www.youtube.com/watch?v=ZnFbclFUVMU" target="_blank" rel="noopener noreferrer">Using Claude Voice to Wire Urgent Slack Alerts + an 8 AM Digest</a> (7:39 · my channel)
@@ -35,4 +36,4 @@ TypeScript · Python · React · Next.js · PostgreSQL · AWS · Google Cloud ·
 
 My background spans 24/7 operations, enterprise cloud infrastructure and product engineering. <a href="https://www.sebastianhozak.com/about" target="_blank" rel="noopener noreferrer">Background and credentials →</a>
 
-I welcome conversations about Glow and product engineering opportunities.
+I welcome conversations about Glow, agent architecture and product engineering.
